@@ -107,7 +107,7 @@ body {
   color: #393d41;
   font-size: 1.2rem;
   font-family: sans-serif;
-  line-height: 1.65rem;
+  line-height: 2, 5rem;
 }
 
 blockquote,
@@ -159,7 +159,7 @@ p {
 }
 
 button {
-  background-color: orangered;
+  background-color: #f04c2f;
   border-radius: 5px;
   border-bottom: 10rem;
   text-align: center;
@@ -232,7 +232,7 @@ section {
   margin-bottom: 3rem;
 }
 footer {
-  background-color: blue;
+  background-color: #25a2c3;
   padding-bottom: 50px;
 }
 
@@ -249,9 +249,16 @@ footer {
 }
 
 h2 {
+  margin-top: 30px;
   text-align: center;
   font-size: xx-large;
   font-weight: bolder;
+}
+.linea {
+  width: 150px;
+  margin: 20px auto;
+  border: 0;
+  border-top: 2px solid white;
 }
 .copyright {
   color: white;
